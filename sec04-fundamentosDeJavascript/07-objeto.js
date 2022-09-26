@@ -13,7 +13,7 @@ let prod2 = {
     descricao: 'caneta',
     preco: 5.75,
     cor: 'azul',
-    informacoesExtras: {
+    medidas: {
         alturaEmCentimetro: 18,
         pesoEmGramas: 20 
     }

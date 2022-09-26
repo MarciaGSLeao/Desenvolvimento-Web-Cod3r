@@ -3,7 +3,7 @@
 
 let nome = 'Felipe';
 const concatenacao = 'Olá ' + nome + '!';
-const templateString = `\nOlá ${nome}!`
+const templateString = `\nOlá ${nome}!`;
 
 console.log(concatenacao, templateString);
 
