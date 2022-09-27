@@ -1,0 +1,11 @@
+console.log("USANDO O VAR NO LOOP FOR...")
+for(var n = 0; n<= 5; n++){
+    console.log(n);
+}
+console.log(n, " => Aqui a variável 'n' sai do loop valendo ", n);
+
+console.log("\nUSANDO O LET NO LOOP FOR...")
+for(let x = 0; x<= 5; x++){
+    console.log(x);
+}
+console.log(x);

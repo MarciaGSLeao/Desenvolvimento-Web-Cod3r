@@ -33,8 +33,3 @@ var numero = 1;
     console.log('dentro = ', numero);
 }
 console.log('fora = ', numero) // Nesse caso, será impresso o valor 10, pois vai sobescrever a var declarada na linha 29.
-console.log('fora = ', numero) // Nesse caso, será impresso o valor 10, pois vai sobescrever a var declarada na linha 29.
-
-
-
-
